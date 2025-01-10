@@ -1,5 +1,5 @@
 # Modern Twitter Clone
-### try your self: https://celebrated-stroopwafel-33c1bd.netlify.app/
+##### try your self (Works best on Safari): https://celebrated-stroopwafel-33c1bd.netlify.app/
 A full-featured Twitter clone built with React, TypeScript, and Supabase, featuring real-time updates and a modern tech stack.
 
 ![Untitled 2 (1)](https://github.com/user-attachments/assets/f3f916b4-614f-4809-a853-3e21f786fb36)
