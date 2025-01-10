@@ -2,7 +2,7 @@
 
 A full-featured Twitter clone built with React, TypeScript, and Supabase, featuring real-time updates and a modern tech stack.
 
-![Twitter Clone Demo](https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=1974&auto=format&fit=crop)
+![Untitled 2 (1)](https://github.com/user-attachments/assets/69e62d0b-e356-42d3-a3af-4d8c836cf0c4)
 
 ## 🌟 Features
 
@@ -33,6 +33,9 @@ A full-featured Twitter clone built with React, TypeScript, and Supabase, featur
   - Full-text search for tweets
   - User search
   - Trending topics
+ 
+![Untitled 2 (3)](https://github.com/user-attachments/assets/77172f41-64cc-47cf-974a-dfce0f7170d9)
+
 
 ## 🛠️ Technology Stack
 
@@ -53,6 +56,7 @@ A full-featured Twitter clone built with React, TypeScript, and Supabase, featur
   - Vite
   - ESLint
   - PostCSS
+![Screen Recording 2025-01-10 at 4 36 29 pm](https://github.com/user-attachments/assets/c8cc767a-d511-40e6-bd94-c249c51ad4a7)
 
 ## 📦 Installation
 
@@ -77,6 +81,7 @@ A full-featured Twitter clone built with React, TypeScript, and Supabase, featur
    ```bash
    npm run dev
    ```
+![Untitled 2 (1)](https://github.com/user-attachments/assets/f3f916b4-614f-4809-a853-3e21f786fb36)
 
 ## 🏗️ Project Structure
 
@@ -96,6 +101,8 @@ src/
 - Secure authentication flow
 - Protected API endpoints
 - File upload restrictions
+  
+![Untitled 2 (2)](https://github.com/user-attachments/assets/a08b9181-6ba7-4b90-ba4f-c48ae94fbe1f)
 
 ## 🎨 Design Features
 
@@ -142,12 +149,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📞 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/twitter-clone](https://github.com/yourusername/twitter-clone)
 
 ## 🙏 Acknowledgments
 
