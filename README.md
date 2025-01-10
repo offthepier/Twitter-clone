@@ -2,8 +2,7 @@
 
 A full-featured Twitter clone built with React, TypeScript, and Supabase, featuring real-time updates and a modern tech stack.
 
-![Untitled 2 (1)](https://github.com/user-attachments/assets/69e62d0b-e356-42d3-a3af-4d8c836cf0c4)
-
+![Untitled 2 (1)](https://github.com/user-attachments/assets/f3f916b4-614f-4809-a853-3e21f786fb36)
 ## 🌟 Features
 
 - **Real-time Updates**
@@ -81,7 +80,8 @@ A full-featured Twitter clone built with React, TypeScript, and Supabase, featur
    ```bash
    npm run dev
    ```
-![Untitled 2 (1)](https://github.com/user-attachments/assets/f3f916b4-614f-4809-a853-3e21f786fb36)
+
+![Untitled 2 (1)](https://github.com/user-attachments/assets/69e62d0b-e356-42d3-a3af-4d8c836cf0c4)
 
 ## 🏗️ Project Structure
 
